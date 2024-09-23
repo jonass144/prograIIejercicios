@@ -1,0 +1,12 @@
+C:\Users\Urano\OneDrive\Documentos\CURSO NIVELACION\tecnicatura programacion\EJERCICIOS programacion I LOGICA\BiblioFacturacion\bin\Debug\net8.0\BiblioFacturacion.deps.json
+C:\Users\Urano\OneDrive\Documentos\CURSO NIVELACION\tecnicatura programacion\EJERCICIOS programacion I LOGICA\BiblioFacturacion\bin\Debug\net8.0\BiblioFacturacion.dll
+C:\Users\Urano\OneDrive\Documentos\CURSO NIVELACION\tecnicatura programacion\EJERCICIOS programacion I LOGICA\BiblioFacturacion\bin\Debug\net8.0\BiblioFacturacion.pdb
+C:\Users\Urano\OneDrive\Documentos\CURSO NIVELACION\tecnicatura programacion\EJERCICIOS programacion I LOGICA\BiblioFacturacion\obj\Debug\net8.0\BiblioFacturacion.csproj.AssemblyReference.cache
+C:\Users\Urano\OneDrive\Documentos\CURSO NIVELACION\tecnicatura programacion\EJERCICIOS programacion I LOGICA\BiblioFacturacion\obj\Debug\net8.0\BiblioFacturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urano\OneDrive\Documentos\CURSO NIVELACION\tecnicatura programacion\EJERCICIOS programacion I LOGICA\BiblioFacturacion\obj\Debug\net8.0\BiblioFacturacion.AssemblyInfoInputs.cache
+C:\Users\Urano\OneDrive\Documentos\CURSO NIVELACION\tecnicatura programacion\EJERCICIOS programacion I LOGICA\BiblioFacturacion\obj\Debug\net8.0\BiblioFacturacion.AssemblyInfo.cs
+C:\Users\Urano\OneDrive\Documentos\CURSO NIVELACION\tecnicatura programacion\EJERCICIOS programacion I LOGICA\BiblioFacturacion\obj\Debug\net8.0\BiblioFacturacion.csproj.CoreCompileInputs.cache
+C:\Users\Urano\OneDrive\Documentos\CURSO NIVELACION\tecnicatura programacion\EJERCICIOS programacion I LOGICA\BiblioFacturacion\obj\Debug\net8.0\BiblioFacturacion.dll
+C:\Users\Urano\OneDrive\Documentos\CURSO NIVELACION\tecnicatura programacion\EJERCICIOS programacion I LOGICA\BiblioFacturacion\obj\Debug\net8.0\refint\BiblioFacturacion.dll
+C:\Users\Urano\OneDrive\Documentos\CURSO NIVELACION\tecnicatura programacion\EJERCICIOS programacion I LOGICA\BiblioFacturacion\obj\Debug\net8.0\BiblioFacturacion.pdb
+C:\Users\Urano\OneDrive\Documentos\CURSO NIVELACION\tecnicatura programacion\EJERCICIOS programacion I LOGICA\BiblioFacturacion\obj\Debug\net8.0\ref\BiblioFacturacion.dll
