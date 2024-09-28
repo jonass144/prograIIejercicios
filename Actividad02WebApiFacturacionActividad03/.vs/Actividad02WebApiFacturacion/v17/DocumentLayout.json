@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad02WebApiFacturacionActividad03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C385F65-68D9-42AA-8697-D9D03A43A7E5}|Actividad02WebApiFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad02webapifacturacionactividad03\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C385F65-68D9-42AA-8697-D9D03A43A7E5}|Actividad02WebApiFacturacion.csproj|solutionrelative:controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C385F65-68D9-42AA-8697-D9D03A43A7E5}|Actividad02WebApiFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad02webapifacturacionactividad03\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C385F65-68D9-42AA-8697-D9D03A43A7E5}|Actividad02WebApiFacturacion.csproj|solutionrelative:controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\datos\\facturarepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\datos\\articulosrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\servicio\\articulomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\servicio\\ifacturamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\servicio\\facturamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\servicio\\iarticulosmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\bibliofacturacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C385F65-68D9-42AA-8697-D9D03A43A7E5}|Actividad02WebApiFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad02webapifacturacionactividad03\\actividad02webapifacturacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7C385F65-68D9-42AA-8697-D9D03A43A7E5}|Actividad02WebApiFacturacion.csproj|solutionrelative:actividad02webapifacturacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C385F65-68D9-42AA-8697-D9D03A43A7E5}|Actividad02WebApiFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad02webapifacturacionactividad03\\dbfacturacion.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{7C385F65-68D9-42AA-8697-D9D03A43A7E5}|Actividad02WebApiFacturacion.csproj|solutionrelative:dbfacturacion.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\dominio\\formaspago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\dominio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\dominio\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\dominio\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\datos\\ifactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\datos\\iarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\datos\\utilidades\\parametro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79FF087-5D5F-4081-8AE2-825F0E5F97D8}|..\\BiblioFacturacion\\BiblioFacturacion.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\bibliofacturacion\\datos\\utilidades\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFacturaManager.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\servicio\\IFacturaManager.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\servicio\\IFacturaManager.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\servicio\\IFacturaManager.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\servicio\\IFacturaManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:41:23.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad02WebApiFacturacionActividad03\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad02WebApiFacturacionActividad03\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "Controllers\\FacturasController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowDAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:37:33.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Actividad02WebApiFacturacion",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad02WebApiFacturacionActividad03\\Actividad02WebApiFacturacion.csproj",
+              "RelativeDocumentMoniker": "Actividad02WebApiFacturacion.csproj",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad02WebApiFacturacionActividad03\\Actividad02WebApiFacturacion.csproj",
+              "RelativeToolTip": "Actividad02WebApiFacturacion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T00:46:58.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BiblioFacturacion.csproj",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\BiblioFacturacion.csproj",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\BiblioFacturacion.csproj",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\BiblioFacturacion.csproj",
+              "RelativeToolTip": "..\\BiblioFacturacion\\BiblioFacturacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T23:41:18.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IArticulosManager.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\servicio\\IArticulosManager.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\servicio\\IArticulosManager.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\servicio\\IArticulosManager.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\servicio\\IArticulosManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:39:17.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacturaManager.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\servicio\\FacturaManager.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\servicio\\FacturaManager.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\servicio\\FacturaManager.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\servicio\\FacturaManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:39:11.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticuloManager.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\servicio\\ArticuloManager.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\servicio\\ArticuloManager.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\servicio\\ArticuloManager.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\servicio\\ArticuloManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:39:04.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormasPago.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\dominio\\FormasPago.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\dominio\\FormasPago.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\dominio\\FormasPago.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\dominio\\FormasPago.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:38:58.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\dominio\\Factura.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\dominio\\Factura.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\dominio\\Factura.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\dominio\\Factura.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:38:44.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\dominio\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\dominio\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\dominio\\DetalleFactura.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\dominio\\DetalleFactura.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:38:34.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\dominio\\Cliente.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\dominio\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\dominio\\Cliente.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\dominio\\Cliente.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:38:32.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Articulos.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\dominio\\Articulos.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\dominio\\Articulos.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\dominio\\Articulos.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\dominio\\Articulos.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:38:30.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\datos\\IFactura.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\datos\\IFactura.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\datos\\IFactura.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\datos\\IFactura.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:38:24.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\datos\\IArticulos.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\datos\\IArticulos.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\datos\\IArticulos.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\datos\\IArticulos.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:38:19.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturaRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\datos\\FacturaRepositoryADO.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\datos\\FacturaRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\datos\\FacturaRepositoryADO.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\datos\\FacturaRepositoryADO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:38:13.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticulosRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\datos\\ArticulosRepositoryADO.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\datos\\ArticulosRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\datos\\ArticulosRepositoryADO.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\datos\\ArticulosRepositoryADO.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:37:50.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Parametro.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\datos\\utilidades\\Parametro.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\datos\\utilidades\\Parametro.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\datos\\utilidades\\Parametro.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\datos\\utilidades\\Parametro.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:37:33.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\datos\\utilidades\\DataHelper.cs",
+              "RelativeDocumentMoniker": "..\\BiblioFacturacion\\datos\\utilidades\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\BiblioFacturacion\\datos\\utilidades\\DataHelper.cs",
+              "RelativeToolTip": "..\\BiblioFacturacion\\datos\\utilidades\\DataHelper.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBMAAACkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:36:32.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbfacturacion.sql",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad02WebApiFacturacionActividad03\\dbfacturacion.sql",
+              "RelativeDocumentMoniker": "dbfacturacion.sql",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad02WebApiFacturacionActividad03\\dbfacturacion.sql",
+              "RelativeToolTip": "dbfacturacion.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-17T14:21:44.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad02WebApiFacturacionActividad03\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad02WebApiFacturacionActividad03\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:37:59.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
