@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\source\\repos\\actividad05webapi\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\source\\repos\\actividad05webapi\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\source\\repos\\actividad05webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\source\\repos\\actividad05webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\source\\repos\\actividad05webapi\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\source\\repos\\actividad05webapi\\services\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:services\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\source\\repos\\actividad05webapi\\services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\source\\repos\\actividad05webapi\\models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\source\\repos\\actividad05webapi\\repositories\\iserviciosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:repositories\\iserviciosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\source\\repos\\actividad05webapi\\models\\db_turnoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:models\\db_turnoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\source\\repos\\actividad05webapi\\models\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:models\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\source\\repos\\actividad05webapi\\models\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:models\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\efpt.config.json",
+              "RelativeDocumentMoniker": "efpt.config.json",
+              "ToolTip": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\efpt.config.json",
+              "RelativeToolTip": "efpt.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T18:51:48.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:44:26.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T18:43:09.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAYwF4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:03:38.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Services\\ServicioService.cs",
+              "RelativeDocumentMoniker": "Services\\ServicioService.cs",
+              "ToolTip": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Services\\ServicioService.cs",
+              "RelativeToolTip": "Services\\ServicioService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:00:22.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Services\\IServicioService.cs",
+              "RelativeDocumentMoniker": "Services\\IServicioService.cs",
+              "ToolTip": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Services\\IServicioService.cs",
+              "RelativeToolTip": "Services\\IServicioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:48:22.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Repositories\\ServicioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ServicioRepository.cs",
+              "ToolTip": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Repositories\\ServicioRepository.cs",
+              "RelativeToolTip": "Repositories\\ServicioRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowDEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:05:43.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IServiciosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Repositories\\IServiciosRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IServiciosRepository.cs",
+              "ToolTip": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Repositories\\IServiciosRepository.cs",
+              "RelativeToolTip": "Repositories\\IServiciosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:59:26.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TDetallesTurno.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Models\\TDetallesTurno.cs",
+              "RelativeDocumentMoniker": "Models\\TDetallesTurno.cs",
+              "ToolTip": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Models\\TDetallesTurno.cs",
+              "RelativeToolTip": "Models\\TDetallesTurno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:47:38.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TTurno.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Models\\TTurno.cs",
+              "RelativeDocumentMoniker": "Models\\TTurno.cs",
+              "ToolTip": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Models\\TTurno.cs",
+              "RelativeToolTip": "Models\\TTurno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:47:34.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Models\\TServicio.cs",
+              "RelativeDocumentMoniker": "Models\\TServicio.cs",
+              "ToolTip": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Models\\TServicio.cs",
+              "RelativeToolTip": "Models\\TServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:47:32.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "db_turnosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Models\\db_turnosContext.cs",
+              "RelativeDocumentMoniker": "Models\\db_turnosContext.cs",
+              "ToolTip": "C:\\Users\\Urano\\source\\repos\\Actividad05WebApi\\Models\\db_turnosContext.cs",
+              "RelativeToolTip": "Models\\db_turnosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:47:21.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
