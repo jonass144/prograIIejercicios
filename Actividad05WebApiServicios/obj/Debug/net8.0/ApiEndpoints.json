@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "Actividad05WebApi.Controllers.ServiciosController",
+    "Method": "Put",
+    "RelativePath": "api/Servicios",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "servicio",
+        "Type": "Actividad05WebApi.Models.TServicio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Actividad05WebApi.Controllers.ServiciosController",
+    "Method": "Delete",
+    "RelativePath": "api/Servicios/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Actividad05WebApi.Controllers.ServiciosController",
+    "Method": "GetFilter",
+    "RelativePath": "api/Servicios/{nombre}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Actividad05WebApi.Controllers.ServiciosController",
+    "Method": "Post",
+    "RelativePath": "api/Servicios/agregarservicio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "servicio",
+        "Type": "Actividad05WebApi.Models.TServicio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Actividad05WebApi.Controllers.ServiciosController",
+    "Method": "Get",
+    "RelativePath": "api/Servicios/servicios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
