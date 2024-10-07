@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\repositories\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:repositories\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\models\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:models\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\repositories\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:repositories\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\repositories\\iserviciosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:repositories\\iserviciosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\models\\db_turnoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:models\\db_turnoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\models\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:models\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\services\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:services\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|c:\\users\\urano\\onedrive\\documentos\\curso nivelacion\\tecnicatura programacion\\ejercicios programacion i logica\\actividad05webapiservicios\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3712FBF6-521D-4FD1-82D2-B201A72EE257}|Actividad05WebApi.csproj|solutionrelative:efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TurnosController.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Controllers\\TurnosController.cs*",
+              "RelativeToolTip": "Controllers\\TurnosController.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:58:26.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Services\\TurnoService.cs",
+              "RelativeDocumentMoniker": "Services\\TurnoService.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Services\\TurnoService.cs",
+              "RelativeToolTip": "Services\\TurnoService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:54:54.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Services\\ITurnoService.cs",
+              "RelativeDocumentMoniker": "Services\\ITurnoService.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Services\\ITurnoService.cs",
+              "RelativeToolTip": "Services\\ITurnoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:54:12.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Repositories\\TurnoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TurnoRepository.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Repositories\\TurnoRepository.cs",
+              "RelativeToolTip": "Repositories\\TurnoRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:35:27.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Repositories\\ITurnoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ITurnoRepository.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Repositories\\ITurnoRepository.cs",
+              "RelativeToolTip": "Repositories\\ITurnoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:33:56.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\efpt.config.json",
+              "RelativeDocumentMoniker": "efpt.config.json",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\efpt.config.json",
+              "RelativeToolTip": "efpt.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T18:51:48.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:44:26.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T18:43:09.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:03:38.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Services\\ServicioService.cs",
+              "RelativeDocumentMoniker": "Services\\ServicioService.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Services\\ServicioService.cs",
+              "RelativeToolTip": "Services\\ServicioService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:00:22.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Services\\IServicioService.cs",
+              "RelativeDocumentMoniker": "Services\\IServicioService.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Services\\IServicioService.cs",
+              "RelativeToolTip": "Services\\IServicioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:48:22.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Repositories\\ServicioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ServicioRepository.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Repositories\\ServicioRepository.cs",
+              "RelativeToolTip": "Repositories\\ServicioRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:05:43.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IServiciosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Repositories\\IServiciosRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IServiciosRepository.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Repositories\\IServiciosRepository.cs",
+              "RelativeToolTip": "Repositories\\IServiciosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:59:26.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TDetallesTurno.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Models\\TDetallesTurno.cs",
+              "RelativeDocumentMoniker": "Models\\TDetallesTurno.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Models\\TDetallesTurno.cs",
+              "RelativeToolTip": "Models\\TDetallesTurno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:47:38.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TTurno.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Models\\TTurno.cs",
+              "RelativeDocumentMoniker": "Models\\TTurno.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Models\\TTurno.cs",
+              "RelativeToolTip": "Models\\TTurno.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:47:34.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Models\\TServicio.cs",
+              "RelativeDocumentMoniker": "Models\\TServicio.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Models\\TServicio.cs",
+              "RelativeToolTip": "Models\\TServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:47:32.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "db_turnosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Models\\db_turnosContext.cs",
+              "RelativeDocumentMoniker": "Models\\db_turnosContext.cs",
+              "ToolTip": "C:\\Users\\Urano\\OneDrive\\Documentos\\CURSO NIVELACION\\tecnicatura programacion\\EJERCICIOS programacion I LOGICA\\Actividad05WebApiServicios\\Models\\db_turnosContext.cs",
+              "RelativeToolTip": "Models\\db_turnosContext.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:47:21.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
